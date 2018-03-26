@@ -9,6 +9,10 @@ A collection of Wikipedia articles for people working in HCI, UX and Design
  - [User (computing)](https://en.wikipedia.org/wiki/User_(computing))
  - [User experience](https://en.wikipedia.org/wiki/User_experience)
 
+## Design
+
+ - [Color theory](https://en.wikipedia.org/wiki/Color_theory)
+
 ## Psychology
 
 ### Biases
